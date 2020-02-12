@@ -18,8 +18,8 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "Your name"
-  description = "Your description"
+  name = "Overlords"
+  description = "A cold blooded game company"
 
   # Link custom assets relative to /static
   custom_css = []
