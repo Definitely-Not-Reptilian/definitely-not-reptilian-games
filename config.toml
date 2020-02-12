@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://definitely-not-reptilian.web.app/"
 languageCode = "en-us"
 title = "Definitely Not Reptilian Games"
 theme = "forty" 
