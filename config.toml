@@ -72,7 +72,7 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Hi, we are Definitely Not Reptilian Games"
+    title = "Hi, we are Definitely Not Reptilians"
     subtitle = "WE MAKE CARD AND BOARD GAMES THAT GET INSIDE YOUR HEAD"
     buttonText = "OBEY"
 
@@ -130,7 +130,7 @@ disqusShortname = ""
   [params.two]
     enable = true
     title = "What do we do?"
-    subtitle = """When we are not plotting to overthrough the human race, we here at Definitely Not Reptilian Games, design card and board games. We strive to ensure our games innovate, delight and challenge every player. We have a passion for evoking themes of paranoia, horror, and self destruction."""
+    subtitle = """When we are not plotting to overthrow the human race, we here at Definitely Not Reptilian Games, design card and board games. We strive to ensure our games innovate, delight and challenge every player. We have a passion for evoking themes of paranoia, horror, and self destruction."""
     buttonText = "CONSUME"
     url = "blogs"
 
