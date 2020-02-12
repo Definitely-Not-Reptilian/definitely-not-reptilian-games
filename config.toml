@@ -83,15 +83,15 @@ disqusShortname = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "Aliquam"
-      subtitle = "Ipsum Dolor Sit Amet"
-      image = "pic01.jpg"
+      title = "About Us"
+      subtitle = "Our cover story"
+      image = "aboutus.jpg"
       url = "blogs/aliquam"
 
     [[params.tiles.showcase]]
       title = "Drawn To Evil"
       subtitle = "A deck building RPG"
-      image = "pic02.jpg"
+      image = "dte.jpg"
       url = "blogs/drawn-to-evil"
 
     # [[params.tiles.showcase]]
