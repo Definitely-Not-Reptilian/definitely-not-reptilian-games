@@ -19,11 +19,11 @@ workflows:
   deploy:
     jobs:
       - hugo/build:
-        html-proofer: true
-        version: '0.55'
+          html-proofer: true
+          version: '0.55'
       - deploy:
-        filters:
-          branches:
-            only: master
-        requires:
-          - hugo/build
+          filters:
+            branches:
+              only: master
+          requires:
+            - hugo/build
