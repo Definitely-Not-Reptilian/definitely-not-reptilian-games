@@ -10,7 +10,7 @@ jobs:
     steps:
       - checkout
       - attach_workspace:
-          at: public
+          at: ~/
       - run: npm ci
       - run: npm run deploy -- --token=$FIREBASE_TOKEN
 
