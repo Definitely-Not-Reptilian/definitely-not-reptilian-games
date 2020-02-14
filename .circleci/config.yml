@@ -1,0 +1,17 @@
+version: 2.1
+description: Orb for firebase deploy.
+jobs:
+  deploy:
+    description: Deploy to firebase
+    docker: 
+      - image: circleci/node:10.16.3
+    steps:
+      - checkout
+      - run: npm ci
+      - run: npm run deploy -- --token=$FIREBASE_TOKEN
+
+workflows:
+  version: 2
+  deploy:
+    jobs:
+      - deploy
