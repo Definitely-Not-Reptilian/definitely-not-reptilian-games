@@ -10,9 +10,10 @@ jobs:
     steps:
       - checkout
       - attach_workspace:
-          at: ~/
+          at: public
+      - run: cd public && ls && cd ..
       - run: npm ci
-      - run: npm run deploy -- --token=$FIREBASE_TOKEN
+      - run: npm run deploy -- --token=$FIREBASE_TOKEN --public=public/public
 
 orbs:
   hugo: circleci/hugo@0.4.1
