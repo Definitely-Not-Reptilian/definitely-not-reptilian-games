@@ -22,7 +22,7 @@ workflows:
         html-proofer: true
         source: src/
         version: '0.55'
-      - deploy
+      - deploy:
         filters:
           branches:
             only: master
