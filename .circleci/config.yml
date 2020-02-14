@@ -23,3 +23,8 @@ workflows:
         source: src/
         version: '0.55'
       - deploy
+        filters:
+          branches:
+            only: master
+        requires:
+          - hugo/build
