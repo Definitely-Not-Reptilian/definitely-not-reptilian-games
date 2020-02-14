@@ -1,8 +1,6 @@
 version: 2.1
 description: Orb for firebase deploy.
 
-orbs:
-  hugo: circleci/hugo@0.4.1
 
 jobs:
   deploy:
@@ -14,11 +12,15 @@ jobs:
       - run: npm ci
       - run: npm run deploy -- --token=$FIREBASE_TOKEN
 
+orbs:
+  hugo: circleci/hugo@0.2
+
 workflows:
-  version: 2
   deploy:
     jobs:
-      - hugo/build
+      - hugo/build:
+        html-proofer: true
+        version: '0.55'
       - deploy:
         filters:
           branches:
