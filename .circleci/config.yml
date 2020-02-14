@@ -13,7 +13,7 @@ jobs:
       - run: npm run deploy -- --token=$FIREBASE_TOKEN
 
 orbs:
-  hugo: circleci/hugo@0.2
+  hugo: circleci/hugo@0.4.1
 
 workflows:
   deploy:
