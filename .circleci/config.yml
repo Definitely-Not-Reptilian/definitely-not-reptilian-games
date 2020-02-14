@@ -1,5 +1,9 @@
 version: 2.1
 description: Orb for firebase deploy.
+
+orbs:
+  hugo: circleci/hugo@0.4.1
+
 jobs:
   deploy:
     description: Deploy to firebase
@@ -14,4 +18,8 @@ workflows:
   version: 2
   deploy:
     jobs:
+      - hugo/build:
+        html-proofer: true
+        source: src/
+        version: '0.55'
       - deploy
