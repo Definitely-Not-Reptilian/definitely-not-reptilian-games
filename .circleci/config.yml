@@ -18,10 +18,7 @@ workflows:
   version: 2
   deploy:
     jobs:
-      - hugo/build:
-        html-proofer: true
-        source: src/
-        version: '0.55'
+      - hugo/build
       - deploy:
         filters:
           branches:
