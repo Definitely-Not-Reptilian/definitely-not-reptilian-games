@@ -86,13 +86,13 @@ disqusShortname = ""
       title = "About Us"
       subtitle = "Our cover story"
       image = "aboutus.jpg"
-      url = "blogs/aliquam"
+      url = "about"
 
     [[params.tiles.showcase]]
       title = "Drawn To Evil"
       subtitle = "A deck building RPG"
       image = "dte.jpg"
-      url = "blogs/drawn-to-evil"
+      url = "drawn-to-evil"
 
     # [[params.tiles.showcase]]
     #   title = "Magna"

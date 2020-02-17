@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "serve": "hugo server",
     "build": "hugo -D",
     "deploy": "firebase deploy"
   },
