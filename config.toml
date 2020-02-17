@@ -1,4 +1,4 @@
-baseURL = "https://definitely-not-reptilian.web.app/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Definitely Not Reptilian Games"
 theme = "forty" 
