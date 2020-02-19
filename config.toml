@@ -83,16 +83,18 @@ disqusShortname = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "About Us"
-      subtitle = "Our cover story"
-      image = "aboutus.jpg"
-      url = "about"
+      title = "Mystery Packs"
+      subtitle = "Murder mystery style evenings with friends."
+      image = "mystery.jpg"
+      url = "mystery"
 
     [[params.tiles.showcase]]
       title = "Drawn To Evil"
       subtitle = "A deck building RPG"
       image = "dte.jpg"
       url = "drawn-to-evil"
+
+      
 
     # [[params.tiles.showcase]]
     #   title = "Magna"
@@ -177,30 +179,25 @@ disqusShortname = ""
     copyright = "Definitely Not Reptilian Games"
 
     # Uses font awesome icons
-    [[params.footer.social]]
-      icon = "fa-twitter"
-      url= "https://www.twitter.com"
-      label = "Twitter"
+    # [[params.footer.social]]
+    #   icon = "fa-twitter"
+    #   url= "https://www.twitter.com"
+    #   label = "Twitter"
 
-    [[params.footer.social]]
-      icon = "fa-facebook"
-      url= "https://www.facebook.com"
-      label = "Facebook"
+    # [[params.footer.social]]
+    #   icon = "fa-facebook"
+    #   url= "https://www.facebook.com"
+    #   label = "Facebook"
 
-    [[params.footer.social]]
-      icon = "fa-instagram"
-      url= "https://www.instagram.com"
-      label = "Instagram"
+    # [[params.footer.social]]
+    #   icon = "fa-instagram"
+    #   url= "https://www.instagram.com"
+    #   label = "Instagram"
     
     [[params.footer.social]]
       icon = "fa-github"
-      url= "https://www.github.com"
+      url= "https://github.com/Definitely-Not-Reptilian"
       label = "GitHub"
-
-    [[params.footer.social]]
-      icon = "fa-linkedin"
-      url= "https://www.linkedin.com"
-      label = "LinkedIn"
 
     [[params.footer.quicklinks]]
       text = "Design: "
