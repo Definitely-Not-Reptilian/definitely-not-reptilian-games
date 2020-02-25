@@ -19,6 +19,6 @@ Similiar to role playing games like Apocolypse World, where the story unfolds th
 
 Players make a deck of cards that represent their character including personality traits, equipment, background and abilities. They then draw from their deck to determine the outcome of their actions.
 
-![Player Cards](/img/drawn-to-evil/hand.png)
+![Player Cards](/img/drawn-to-evil/showcase_dm.png)
 
 The Game Master also has a set of cards that represent important characters and locations in the world. Importantly, these archetypes dictate the type of Evil that the players will investigate as well as any help or hinderance they find along the way. 
