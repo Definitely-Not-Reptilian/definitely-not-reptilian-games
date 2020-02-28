@@ -88,6 +88,8 @@ Each player begins by constructing a standard Player deck containing:
 - 2 x Rest
 - 2 x Resolve
 
+![Starting Deck](/img/drawn-to-evil/starting-deck.png)
+
 Then each player performs the following steps to customise their character.
 
 - Draw 2 each of Background cards and Trait cards. Keep 1 of each.
