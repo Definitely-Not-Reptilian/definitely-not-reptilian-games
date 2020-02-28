@@ -2,7 +2,6 @@
 title: "Drawn To Evil"
 description: "Take on the role of an investigator in a horror filled one session story whilst one of your friends takes on the role of the Game Master, who controls a destructive Evil monster, their minions and innocent bystanders."
 slug: "drawn-to-evil"
-image: drawn-to-evil.png
 keywords: ""
 categories: 
     - ""
@@ -14,6 +13,8 @@ draft: false
 Take on the role of an investigator in a horror filled one session story whilst one of your friends takes on the role of the Game Master, who controls a destructive Evil monster, their minions and innocent bystanders.
 
 Similiar to role playing games like Apocolypse World, where the story unfolds throughout play, Drawn to Evil allows a nail biting story to be told by everyone at the table. Combining deck building mechanics to build your player's characters, and a set of Game Master cards to inflict harm and insanity upon them, a game can be setup in mere minutes.
+
+Check out the rules [here](/drawn-to-evil-rules).
 
 ![Player Cards](/img/drawn-to-evil/showcase.png)
 

@@ -18,7 +18,7 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "Overlords"
+  name = "Definitely Not Reptilian Games"
   description = "A cold blooded game company"
 
   # Link custom assets relative to /static
@@ -47,8 +47,12 @@ disqusShortname = ""
       url = "#"
 
     [[params.navigation.links]]
+      name = "Mystery Packs"
+      url = "mystery"
+
+    [[params.navigation.links]]
       name = "Drawn To Evil"
-      url = "blogs/drawn-to-evil"
+      url = "drawn-to-evil"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -93,8 +97,6 @@ disqusShortname = ""
       subtitle = "A deck building RPG"
       image = "dte.jpg"
       url = "drawn-to-evil"
-
-      
 
     # [[params.tiles.showcase]]
     #   title = "Magna"
