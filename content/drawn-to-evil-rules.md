@@ -191,7 +191,7 @@ Below are some principles to follow as a Game Master,
 - Remember to ask the players "What do you do?"
 
 #### Step 7 Twist
-When the players have confronted the evil, and it looks like they will succeed it is time for a twist. The Evil should have one last trick up their sleeve that throws everything into peril. You may have an idea of this strategy when creating the Evil or it may appear naturally as a matter of circumstances. The best twists are forshadowed early within the play session.
+When the players have confronted the evil, and it looks like they will succeed it is time for a twist. The Evil should have one last trick up their sleeve that throws everything into peril. You may have an idea of this strategy when creating the Evil or it may appear naturally as a matter of circumstances. The best twists are foreshadowed early within the play session.
 
 #### Step 8 Epilogue
 
