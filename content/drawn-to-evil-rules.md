@@ -94,6 +94,9 @@ Each player begins by constructing a standard Player deck containing:
 Then each player performs the following steps to customise their character.
 
 - Draw 2 each of Background cards and Trait cards. Keep 1 of each.
+
+![Traits and Background cards](/img/drawn-to-evil/traits-and-background.png)
+
 - Draw 4 Ability cards. Keep 2.
 - Give your character a name!
 - Follow any "Add to your deck" instructions on your Background and Trait cards.
