@@ -24,7 +24,8 @@ draft: false
   - [Step 4 Locations](#step-4-locations)
   - [Step 5 Player Introductions](#step-5-player-introductions)
   - [Step 6 Gameplay](#step-6-gameplay)
-  - [Step 7 Epilogue](#step-7-epilogue)
+  - [Step 7 Twist](#step-7-twist)
+  - [Step 8 Epilogue](#step-8-epilogue)
 - [Reference](#reference)
   - [Aspects](#aspects)
   - [Zones](#zones)
@@ -128,6 +129,8 @@ The Evil is the focus of the story. Stopping it for good will end the story.
 - Decide what it wants and what that means for the players or the world if it happened.
 - Choose a weakness for the Evil so that the players can defeat it for good.
 
+![Monster Example](/img/drawn-to-evil/evil.png)
+
 #### Step 2 Minions:
 
 A minion is an individual or group that will assist the Evil. 
@@ -137,6 +140,8 @@ A minion is an individual or group that will assist the Evil.
 - Think about why they are helping the Evil and how.
 
 Repeat this step for additional minions. (optional)
+
+![Minion Example](/img/drawn-to-evil/minion.png)
 
 #### Step 3 Bystanders:
 
@@ -148,6 +153,8 @@ A bystander that will help the characters in a variety of ways. It is important 
 
 Repeat this step for additional bystanders. (optional)
 
+![Bystander Example](/img/drawn-to-evil/bystander.png)
+
 #### Step 4 Locations:
 
 A location is somewhere that is important to the Evil and/or the story.
@@ -157,6 +164,8 @@ A location is somewhere that is important to the Evil and/or the story.
 - This may be a lair or where something the Evil wants resides. It can even be it's own entity trying to stop the players.
 
 Repeat this step for additional locations, this can be done any time the player's visit a new hostile location.
+
+![Location Example](/img/drawn-to-evil/location.png)
 
 #### Step 5 Player Introductions:
 
@@ -178,7 +187,10 @@ Below are some principles to follow as a Game Master,
 - Set the scene, it's often good to give the players a direct hook such as a call to arms, or even put them right into the aftermath of the Evil's latest attack.
 - Remember to ask the players "What do you do?"
 
-#### Step 7 Epilogue
+#### Step 7 Twist
+When the players have confronted the evil, and it looks like they will succeed it is time for a twist. The Evil should have one last trick up their sleeve that throws everything into peril. You may have an idea of this strategy when creating the Evil or it may appear naturally as a matter of circumstances. The best twists are forshadowed early within the play session.
+
+#### Step 8 Epilogue
 
 When the Evil is dealt with for good, or the characters have failed gameplay stops. As Game Master you should describe the immediate outcome and then ask each player to provide an epilogue for their character; alive or dead.
 
@@ -186,15 +198,15 @@ When the Evil is dealt with for good, or the characters have failed gameplay sto
 
 ### Aspects
 
-- Reason - Your ability to solve puzzles, detect a logical pattern or understand a complex idea.
-- Weird - Your ability to be in tune with the supernatural or insane.
-- Passion - Your ability to empathise, manipulate and convince others.
-- Soul - Your ability to stay calm under pressure and resist the influence.
-- Might - Your ability to exert control over the physical world.
+- **Reason** - Your ability to solve puzzles, detect a logical pattern or understand a complex idea.
+- **Weird** - Your ability to be in tune with the supernatural or insane.
+- **Passion** - Your ability to empathise, manipulate and convince others.
+- **Soul** - Your ability to stay calm under pressure and resist the influence.
+- **Might** - Your ability to exert control over the physical world.
 
 ### Zones
 
-- Character deck: Most cards begin here, this is where you draw from when performing a check.
+- Character deck: Most cards begin here; this is where you draw from when performing a check.
 - Tableau: Cards on the table in front of you form your ready to use abilities. 
 - Discard pile: After a card is drawn for a check or an Ability card is used, they are placed here face up. When your deck runs out of cards, shuffle your discard pile and these cards become your new character deck.
 
@@ -204,8 +216,8 @@ When the Evil is dealt with for good, or the characters have failed gameplay sto
 - Use: When a card with this symbol is in your tableau, you may use it anytime and complete its instructions. Afterwards put the card into your discard.
 
 ### Death
-If during any check, 3 or more Injury and/or shock cards are drawn that character is marked for death. These cards are marked with a skull.
-It is up to the Game Master and player to decide how their death or insanity manifests, but before the end of the session, all characters marked will perish.
+If 3 or more Injury and/or Shock cards are drawn during a single check, that character is marked for death. Injury and Shock cards are marked with a skull.
+Before the end of the session, all characters marked must perish. It is up to the Game Master and player to decide how exactly their death or insanity manifests.
 
 
 
