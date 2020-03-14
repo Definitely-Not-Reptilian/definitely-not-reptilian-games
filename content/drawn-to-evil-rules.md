@@ -98,6 +98,9 @@ Then each player performs the following steps to customise their character.
 ![Traits and Background cards](/img/drawn-to-evil/traits-and-background.png)
 
 - Draw 4 Ability cards. Keep 2.
+
+![Ability cards](/img/drawn-to-evil/abilities.png)
+
 - Give your character a name!
 - Follow any "Add to your deck" instructions on your Background and Trait cards.
 - Your Ability cards start in your tableau ready to be used.
