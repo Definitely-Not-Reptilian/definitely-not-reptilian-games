@@ -15,7 +15,9 @@ draft: false
 - [Objective](#objective)
 - [Setup](#setup)
 - [Player](#player)
-  - [Getting started](#getting-started)
+  - [Character Creation](#character-creation)
+  - [How to Play](#how-to-play)
+    - [Basic Moves](#basic-moves)
 - [Game Master](#game-master)
   - [Getting started](#getting-started-as-the-game-master)
   - [Step 1 Evil](#step-1-evil)
@@ -84,7 +86,7 @@ Root it out and destroy it.
 
 No matter the horrors that lurch forth from the bowels of the universe, you will hunt it. As a team of hunters you are drawn to these forces and you will restore order.
 
-## Getting started
+## Character Creation
 
 Each player begins by constructing a standard Player deck containing 10 Base ![Base](/img/drawn-to-evil/base.png) cards:
 
@@ -123,6 +125,30 @@ If you are playing with 4 or 5 players (excluding the Game Master), instead star
 
 Follow the remaining steps as usual.
 
+## How to play
+
+Desribe what you wish to do (in character if possible) and the Game Master will tell you the result of your actions. When you attempt to do something dangerous, difficult or with a chance of failure, the Game Master may ask you to attempt one of the following basic moves.
+
+To 'Check' an aspect, draw cards from the top of your deck until you see 2 ![Stop](/img/drawn-to-evil/stop.png) symbols. Then add up the total for the appropriate aspect on all cards drawn and compare to the conditions below.
+
+**On any check when you total -1 or less:**\
+You fail! The Game Master may give you an Injury ![Injury](/img/drawn-to-evil/injury.png) or Shock ![Shock](/img/drawn-to-evil/shock.png) card to add to your deck.
+However your experience does embolden you and you may draw 2 cards from the combined Item ![Item](/img/drawn-to-evil/item.png) and Abilities ![Ability](/img/drawn-to-evil/ability.png) deck. Choose one and put it into your discard, return the other to the bottom of the deck.
+
+### Basic Moves
+
+There are 6 Basic moves which the Game Master can ask you to perform. Refer to the reference cards for more information.
+
+- **Puzzle Things Out** - Used to solve mysteries and think logically.
+- **Read A Person** - Used to interact with people and get what you want from them.
+- **Act Under Pressure** - Used to deal with dangerous situations, like withstanding poison, jumping out the way of a falling building or keping your hands steady whilst defusing a bomb.
+- **Take Control** - Used to smash, wrestle or shoot.
+- **Deal With the Unknown** - Understand ancient runes, use psychic powers or just generally be magical.
+- **Help** - Assist another player or NPC in completing their task.
+
+*Note: Depending on the level of success, players might have a list of questions to ask the Game Master. These questions should always be answered honestly.*
+
+
 # Game Master
 
 You are the Game Master. In a world of unknown horrors seeking to change the very fabric of human existance, you are the secret agent pushing the world to the brink of catastrophy.
@@ -149,7 +175,7 @@ A minion is an individual or group that will assist the Evil.
 
 - Draw 1 x Minion ![Minion](/img/drawn-to-evil/minion-icon.png) card.
 - Give the minion(s) a name.
-- Think about why they are helping the Evil and how.
+- Think about how and why they are helping the Evil.
 
 Repeat this step for additional minions. (optional)
 
@@ -161,7 +187,7 @@ A bystander that will help the characters in a variety of ways. It is important 
 
 - Draw 1 x Bystander ![Bystander](/img/drawn-to-evil/bystander-icon.png) card
 - Give the bystander a name.
-- Think about why they are helping the player's and how the Evil has effected them.
+- Think about why they are helping the players and how the Evil has effected them.
 
 Repeat this step for additional bystanders. (optional)
 
@@ -226,6 +252,8 @@ When the Evil is dealt with for good, or the characters have failed gameplay sto
 - ![Add to deck](/img/drawn-to-evil/add.png) Complete this effect when adding this card to your deck.
 - ![Play card](/img/drawn-to-evil/play.png) Complete this effect each time you draw this card from your deck.
 - ![Use ability](/img/drawn-to-evil/use.png) When a card with this symbol is in your tableau, you may use it anytime and complete its instructions. Afterwards put the card into your discard.
+- ![Stop](/img/drawn-to-evil/stop.png) Drawing 2 of these symbols when performing a check means you should stop drawing cards.
+- ![Skull](/img/drawn-to-evil/skull.png) Drawing 3 of these symbols in a single check indicates impending death or insanity!
 
 ### Death
 If 3 or more Injury and/or Shock cards are drawn during a single check, that character is marked for death. Injury and Shock cards are marked with a ![Skull](/img/drawn-to-evil/skull.png).
