@@ -102,7 +102,7 @@ Then each player performs the following steps to customise their character.
 
 ![Ability cards](/img/drawn-to-evil/abilities.png)
 
-- Give your character a name! Think about the name that sums up who you have constructed from the eariler steps.
+- Give your character a name! Think about the name that sums up who you have constructed from the earlier steps.
 - Complete any ![Add to deck](/img/drawn-to-evil/add.png) Add to deck instructions on your Background and Trait cards (these are the instructions at the bottom of the cards). This may ask you to remove or add new base ![Base](/img/drawn-to-evil/base.png) cards to your starting deck.
 - Your ![Ability](/img/drawn-to-evil/ability.png) Ability cards start in your tableau (layed out in front of you) ready to be used.
 - Your ![Background](/img/drawn-to-evil/background.png) Background and ![Trait](/img/drawn-to-evil/trait.png) Trait cards are shuffled into your deck.
@@ -122,7 +122,7 @@ Follow the remaining steps as usual.
 
 ## How to play
 
-Most of your actions should be decided by desribing what you wish to do (in character if possible) and the Game Master will tell you the result of your actions. \
+Most of your actions should be decided by describing what you wish to do (in character if possible) and the Game Master will tell you the result of your actions. \
 When you attempt to do something dangerous, difficult or with a chance of failure, the Game Master may ask you to attempt one of the basic moves, or you may attempt a move of your own.
 
 **Cards:**\
@@ -159,7 +159,7 @@ There are 6 Basic moves which the Game Master can ask you to perform. Refer to t
 
 # Game Master
 
-You are the Game Master. In a world of unknown horrors seeking to change the very fabric of human existance, you are the secret agent pushing the world to the brink of catastrophy.
+You are the Game Master. In a world of unknown horrors seeking to change the very fabric of human existence, you are the secret agent pushing the world to the brink of catastrophe.
 
 An Evil is the core to this. It drives the danger and is the cause for the entire event. Through the course of its actions and influences it will bring harm, corruption, destruction and suffering. The exact nature of it' plan will evolve as the story does but it never hurts to have some dastardly ideas in mind.
 
@@ -174,8 +174,8 @@ The Evil is the focus of the story. Stopping it for good will end the story.
 - Give it a name.
 - Decide what it wants and what that means for the players and the world if the Evil succeeds.
 - Choose a weakness for the Evil so that the players can defeat it for good.
-    - If they do not propely exploit the Evil's weakness then it will come back.
-    - Weaknesses should not be "hates being stabbed". It should be something unique and specific to the Evil. (Eg. Vampires being staked to the ground by wood, or aliens being alergic to copper.)
+    - If they do not properly exploit the Evil's weakness then it will come back.
+    - Weaknesses should not be "hates being stabbed". It should be something unique and specific to the Evil. (Eg. Vampires being staked to the ground by wood, or aliens being allergic to copper.)
 
 ![Monster Example](/img/drawn-to-evil/evil.png)
 
@@ -235,8 +235,8 @@ Below are some principles to follow as a Game Master,
 - Set the scene, it's often good to give the players a direct hook such as a call to arms, or even put them right into the aftermath of the Evil's latest attack.
 - Ensure the players are given a clear path to discovering the Evil's weakness. If they never learn it, then the ending can be unsatisfying.
 - Remember to ask the players "What do you do?"
-- There is no turn order, but you should try to make sure everyone is being included in the action regularly. It is more fun that way, and if a player never does checks, they lose the ability to upgrade and never get some of their abilites on the tableau.
-- This game is meant to play more like a narritive story than a numeric RPG. Nothing has hitpoints or stats to beat. If you feel a creature has been hurt enough then it is dead.
+- There is no turn order, but you should try to make sure everyone is being included in the action regularly. It is more fun that way, and if a player never does checks, they lose the ability to upgrade and never get some of their abilities on the tableau.
+- This game is meant to play more like a narrative story than a numeric RPG. Nothing has hitpoints or stats to beat. If you feel a creature has been hurt enough then it is dead.
 - Don't think about it as the players vs the NPCs. Thank about the game as the players vs the entire world.
 - If a player asks to do something very hard, instead of asking them to complete a difficult check tell them no. Maybe hint at them to break the task up into more managable sub tasks.
 
