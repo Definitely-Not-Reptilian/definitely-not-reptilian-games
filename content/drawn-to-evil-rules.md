@@ -42,13 +42,13 @@ The exact choice of Evil, setting and playstyle is up to the Game Master and pla
 
 # Objective
 
-The investigators must discover the Evil and it's weakness to then end it for good. This may not require killing the Evil, simply locking it away, preventing it from being summoned, or generally 'stopping' it will often be enough.
+The investigators must discover the Evil and it's weakness to then end it for good. This may not require killing the Evil, simply locking it away, preventing it from being summoned, or generally 'stopping' it will often be enough. Although sometimes, killing Evil wont be enough. The investigators may have to salt and burn the earth so no Evil can grow again.
 
 As a Game Master it is your job to make the world, story and non player characters come alive. 
 
 # Setup
 
-Divide the cards into piles by type and shuffle them. Below are all of the card types.
+Divide the cards into piles by type and shuffle the piles. Below are all of the card types.
 
 *Cards for the Players*
 
@@ -66,29 +66,23 @@ Divide the cards into piles by type and shuffle them. Below are all of the card 
 ![Evil](/img/drawn-to-evil/evil-icon.png) 12 x Evil cards\
 ![Minion](/img/drawn-to-evil/minion-icon.png) 10 x Minion cards\
 ![Bystander](/img/drawn-to-evil/bystander-icon.png) 10 x Bystander cards\
-![Location](/img/drawn-to-evil/location-icon.png) 10 x Location cards
+![Location](/img/drawn-to-evil/location-icon.png) 10 x Location cards\
+![Basic Move](/img/drawn-to-evil/basic-move.png) 10 x Basic Move cards
 
 # Player
 
-There are things out there.
-
-Things that crawl, things that ooze, things that find places to hide. Sometimes it's a dark corner of a city, sometimes a remote desert tomb, harder yet when it hass wriggled it's way into an innocent's mind.
-
-That's where you come in.
-
-You are a hunter.
-
-Most people aren't even aware of the paranormal. The otherworldly forces eager to devour and mutate our human existence are a secret, and you intend to keep it that way.
-
-How?
-
-Root it out and destroy it.
-
+There are things out there.\
+Things that crawl, things that ooze, things that find places to hide. Sometimes it's a dark corner of a city, sometimes a remote desert tomb, harder yet when it has wriggled it's way into an innocent's mind.\
+That's where you come in.\
+You are a hunter.\
+Most people aren't even aware of the paranormal. The otherworldly forces eager to devour and mutate our human existence are a secret, and you intend to keep it that way.\
+How?\
+Root it out and destroy it.\
 No matter the horrors that lurch forth from the bowels of the universe, you will hunt it. As a team of hunters you are drawn to these forces and you will restore order.
 
 ## Character Creation
 
-Each player begins by constructing a standard Player deck containing 10 Base ![Base](/img/drawn-to-evil/base.png) cards:
+Each player begins by constructing a standard Player deck containing 10 ![Base](/img/drawn-to-evil/base.png) Base cards:
 
 - 2 x Understanding
 - 2 x Devotion
@@ -100,18 +94,19 @@ Each player begins by constructing a standard Player deck containing 10 Base ![B
 
 Then each player performs the following steps to customise their character.
 
-- Draw 2 each of Background cards and Trait cards. Keep 1 of each.
+- Draw 2 each of Background cards and Trait cards. Keep 1 of each. Think about the combination that you think would fight Evil best.
 
 ![Traits and Background cards](/img/drawn-to-evil/traits-and-background.png)
 
-- Draw 4 Ability cards. Keep 2.
+- Draw 4 Ability cards. Keep 2. Think about the kind of moves your investigator would have.
 
 ![Ability cards](/img/drawn-to-evil/abilities.png)
 
-- Give your character a name!
-- Complete any ![Add to deck](/img/drawn-to-evil/add.png) instructions on your Background and Trait cards. This may ask you to remove or add new base ![Base](/img/drawn-to-evil/base.png) cards to your starting deck.
-- Your Ability ![Ability](/img/drawn-to-evil/ability.png) cards start in your tableau ready to be used.
-- Your Background ![Background](/img/drawn-to-evil/background.png) and Trait ![Trait](/img/drawn-to-evil/trait.png) cards are shuffled into your deck.
+- Give your character a name! Think about the name that sums up who you have constructed from the eariler steps.
+- Complete any ![Add to deck](/img/drawn-to-evil/add.png) Add to deck instructions on your Background and Trait cards (these are the instructions at the bottom of the cards). This may ask you to remove or add new base ![Base](/img/drawn-to-evil/base.png) cards to your starting deck.
+- Your ![Ability](/img/drawn-to-evil/ability.png) Ability cards start in your tableau (layed out in front of you) ready to be used.
+- Your ![Background](/img/drawn-to-evil/background.png) Background and ![Trait](/img/drawn-to-evil/trait.png) Trait cards are shuffled into your deck.
+- Once every player is done, shuffle the ![Item](/img/drawn-to-evil/item.png) Item and ![Ability](/img/drawn-to-evil/ability.png) Ability cards into one deck and place it face down in reach of all players.
 - You are ready to begin!
 
 #### 4-5 player variant
@@ -127,13 +122,26 @@ Follow the remaining steps as usual.
 
 ## How to play
 
-Desribe what you wish to do (in character if possible) and the Game Master will tell you the result of your actions. When you attempt to do something dangerous, difficult or with a chance of failure, the Game Master may ask you to attempt one of the following basic moves.
+Most of your actions should be decided by desribing what you wish to do (in character if possible) and the Game Master will tell you the result of your actions. \
+When you attempt to do something dangerous, difficult or with a chance of failure, the Game Master may ask you to attempt one of the basic moves, or you may attempt a move of your own.
 
-To 'Check' an aspect, draw cards from the top of your deck until you see 2 ![Stop](/img/drawn-to-evil/stop.png) symbols. Then add up the total for the appropriate aspect on all cards drawn and compare to the conditions below.
+**Cards:**\
+Your cards exist in 3 main zones. Your deck, discard pile, and your tableau. You deck is face down, and your discard and tableau are face up. When your deck is empty, shuffle you discard pile and it then becomes your deck.
+
+**Checking:**\
+When using a move that requires you to 'Check' an aspect, draw cards from the top of your deck until you see 2 ![Stop](/img/drawn-to-evil/stop.png) Stop symbols. Then add up the total for the appropriate aspect (from on the coloured circle on the left) on all cards drawn and compare to the conditions of the move. Once the check is complete, place the cards from the check in the discard.\
+When you are Checking, you might: 
+- Draw an ![Ability](/img/drawn-to-evil/ability.png) Ability card. Put it in you tableau if this happens. You can use this Ability whenever you want after the Check is complete.\
+- Draw a card with a ![Play card](/img/drawn-to-evil/play.png) Play Card rule on it. You should follow the instructions on the card if this happens.
+- Draw 3 or more Injury and/or Shock. Something bad happens. Refer to the [Death](#death) section of the rules for this.
 
 **On any check when you total -1 or less:**\
-You fail! The Game Master may give you an Injury ![Injury](/img/drawn-to-evil/injury.png) or Shock ![Shock](/img/drawn-to-evil/shock.png) card to add to your deck.
-However your experience does embolden you and you may draw 2 cards from the combined Item ![Item](/img/drawn-to-evil/item.png) and Abilities ![Ability](/img/drawn-to-evil/ability.png) deck. Choose one and put it into your discard, return the other to the bottom of the deck.
+You fail! The Game Master may give you an ![Injury](/img/drawn-to-evil/injury.png) Injury or ![Shock](/img/drawn-to-evil/shock.png) Shock card to add to your deck.
+However your experience does embolden you and you may draw 2 cards from the combined ![Item](/img/drawn-to-evil/item.png) Item and ![Ability](/img/drawn-to-evil/ability.png) Abilities deck. Choose one and put it into your discard, return the other to the bottom of the deck.
+
+**Abilities:**\
+Instead of using the basic moves, you can also use the abilities in your tableau. Once the Ability cards are used, they should go in your discard. You can use these abilities whenever you want.
+Some Abilities allow you to use different Aspects when Checking. You can decide to use these abilities even after drawing the check cards, effectively turning your failure into a success by using the different numbers on the cards.
 
 ### Basic Moves
 
@@ -164,8 +172,10 @@ The Evil is the focus of the story. Stopping it for good will end the story.
 
 - Draw 1 x Evil ![Evil](/img/drawn-to-evil/evil-icon.png) card.
 - Give it a name.
-- Decide what it wants and what that means for the players or the world if it happened.
+- Decide what it wants and what that means for the players and the world if the Evil succeeds.
 - Choose a weakness for the Evil so that the players can defeat it for good.
+    - If they do not propely exploit the Evil's weakness then it will come back.
+    - Weaknesses should not be "hates being stabbed". It should be something unique and specific to the Evil. (Eg. Vampires being staked to the ground by wood, or aliens being alergic to copper.)
 
 ![Monster Example](/img/drawn-to-evil/evil.png)
 
@@ -223,7 +233,12 @@ You are ready to begin!
 Below are some principles to follow as a Game Master,
 
 - Set the scene, it's often good to give the players a direct hook such as a call to arms, or even put them right into the aftermath of the Evil's latest attack.
+- Ensure the players are given a clear path to discovering the Evil's weakness. If they never learn it, then the ending can be unsatisfying.
 - Remember to ask the players "What do you do?"
+- There is no turn order, but you should try to make sure everyone is being included in the action regularly. It is more fun that way, and if a player never does checks, they lose the ability to upgrade and never get some of their abilites on the tableau.
+- This game is meant to play more like a narritive story than a numeric RPG. Nothing has hitpoints or stats to beat. If you feel a creature has been hurt enough then it is dead.
+- Don't think about it as the players vs the NPCs. Thank about the game as the players vs the entire world.
+- If a player asks to do something very hard, instead of asking them to complete a difficult check tell them no. Maybe hint at them to break the task up into more managable sub tasks.
 
 #### Step 7 Twist
 When the players have confronted the evil, and it looks like they will succeed it is time for a twist. The Evil should have one last trick up their sleeve that throws everything into peril. You may have an idea of this strategy when creating the Evil or it may appear naturally as a matter of circumstances. The best twists are foreshadowed early within the play session.
