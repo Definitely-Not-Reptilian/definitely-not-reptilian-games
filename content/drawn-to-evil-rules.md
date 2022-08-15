@@ -48,7 +48,7 @@ draft: false
 
 Drawn to evil is a tabletop role playing game designed for 2-5 players. Players take on the role of an investigator in a horror filled one session story. One player takes on the role of the Game Master, who controls the Evil, their minions and innocent bystanders.
 
-The exact choice of Evil, setting and playstyle is up to the Game Master and players but Drawn to Evil typically suits a modern setting with lovecraftian horror elements mixed in.
+The exact choice of Evil, setting and play style is up to the Game Master and players but Drawn to Evil typically suits a modern setting with lovecraftian horror elements mixed in.
 
 # Objective
 
@@ -250,9 +250,9 @@ Below are some principles to follow as a Game Master,
 - Ensure the players are given a clear path to discovering the Evil's weakness. If they never learn it, then the ending can be unsatisfying.
 - Remember to ask the players "What do you do?"
 - There is no turn order, but you should try to make sure everyone is being included in the action regularly. It is more fun that way, and if a player never does checks, they lose the ability to upgrade and never get some of their abilities on the tableau.
-- This game is meant to play more like a narrative story than a numeric RPG. Nothing has hitpoints or stats to beat. If you feel a creature has been hurt enough then it is dead.
+- This game is meant to play more like a narrative story than a numeric RPG. Nothing has hit points or stats to beat. If you feel a creature has been hurt enough then it is dead.
 - Don't think about it as the players vs the NPCs. Think about the game as the players vs the entire world.
-- If a player asks to do something very hard, instead of asking them to complete a difficult check tell them no. Maybe hint at them to break the task up into more managable sub tasks.
+- If a player asks to do something very hard, instead of asking them to complete a difficult check tell them no. Maybe hint at them to break the task up into more manageable sub tasks.
 
 #### Step 7 - Twist
 When the players have confronted the Evil, and it looks like they will succeed it is time for a twist. The Evil should have one last trick up their sleeve that throws everything into peril. You may have an idea of this strategy when creating the Evil or it may appear naturally as a matter of circumstances. The best twists are foreshadowed early within the play session.
