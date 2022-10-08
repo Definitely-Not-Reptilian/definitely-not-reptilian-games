@@ -14,7 +14,7 @@ Take on the role of an investigator in a horror filled one session story whilst 
 
 Similiar to role playing games like Apocolypse World, where the story unfolds throughout play, Drawn to Evil allows a nail biting story to be told by everyone at the table. Combining deck building mechanics to build your player's characters, and a set of Game Master cards to inflict harm and insanity upon them, a game can be setup in mere minutes.
 
-Check out the rules [here](/drawn-to-evil-rules).
+You can check out the [rules](/drawn-to-evil-rules) or download the [Print and Play](/drawn-to-evil-downloads) right now.
 
 ![Player Cards](/img/drawn-to-evil/showcase.png)
 
