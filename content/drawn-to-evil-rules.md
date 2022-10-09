@@ -84,7 +84,7 @@ Most aren’t even aware of the otherworldly forces eager to devour and mutate o
 
 How? Root them out and destroy them.
 
-No matter the horrors that lurch forth from the bowels of the universe, you will hunt it. As a team you are drawn to these forces and you will restore order.
+No matter the horror that lurch forth from the bowels of the universe, you will hunt it. As a team you are drawn to these forces and you will restore order.
 
 # Aspects
 
@@ -185,7 +185,7 @@ Basic Moves and some <small>ACTIVATE</small> instructions may ask you to make a 
 
 - Draw cards from the top of your deck until you have drawn 2 cards with the  Stop symbol.
 - Add up the total for the appropriate aspect (colour) on all cards drawn. This forms your score.
-- Compare your score to the Basic Move or ACTIVATE instruction to find out it's effect.
+- Compare your score to the ACTIVATED card to find out it's effect.
 - If you have a score totalling negative 1 (-1) or less: you fail. Refer to the rules about [Failure](#failure).
 - Finally place all drawn cards (excluding drawn ![Ability](/img/drawn-to-evil/ability.png) Ability or ![Role](/img/drawn-to-evil/role.png) Role cards) into your discard.
 
@@ -255,7 +255,7 @@ A location is somewhere that is important to the Evil and/or the story.
 
 - Draw 1 x ![Location](/img/drawn-to-evil/location-icon.png) Location card.
 - Give the location a name.
-- This may be a lair or where something the Evil wants resides. It can even be its own entity trying to stop the players.
+- This may be a lair or where something the Evil wants resides. It can even be its own entity trying to stop the <small>INVESTIGATORS</small>.
 
 > Optional Extras
 >
