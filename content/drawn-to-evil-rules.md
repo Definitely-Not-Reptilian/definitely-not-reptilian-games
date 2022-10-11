@@ -30,6 +30,7 @@ draft: false
     - [Other moves](#other-moves)
     - [Checking](#checking)
     - [Failure](#failure)
+    - [Remove](#remove)
 - [Game Master](#game-master)
   - [Step 1 - Evil](#step-1---evil)
   - [Step 2 - Minions](#step-2---minions)
@@ -207,6 +208,9 @@ When your check totals negative 1 (-1) or less your move has failed.
 > When constructing the <small>UPGRADE</small> pile, turn 4 cards face-up in the center of the table so that all players can read them. When an <small>INVESTIGATOR</small> fails, instead of drawing from the pile, they choose 1 of the 4 that are face-up, then replace the card with another from the <small>UPGRADE</small> pile to ensure there are always 4 available.
 >
 > This rule works best if you find players spend too long deciding on upgrades as they will likely already have decided on their favourite from the pool when the time comes.
+
+#### Remove:
+Some cards will instruct you to 'Remove' a card from your deck, discard or tableau. Removing a card permanently removes it from play, returning it to the box.
 
 # Game Master
 

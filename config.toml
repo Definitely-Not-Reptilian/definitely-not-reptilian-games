@@ -92,7 +92,7 @@ disqusShortname = ""
     
     [[params.tiles.showcase]]
       title = "Mystery Packs"
-      subtitle = "Murder mystery style evenings with friends."
+      subtitle = "Murder mystery style evenings with friends"
       image = "mystery.jpg"
       url = "mystery"
 
