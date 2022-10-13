@@ -17,4 +17,4 @@ A physical copy will be available soon.
 - [Player cards](https://drawntoevil.s3.ap-southeast-2.amazonaws.com/printable.pdf)
 - [Player cards - Backs](https://drawntoevil.s3.ap-southeast-2.amazonaws.com/printable_backs.pdf)
 - [Game Master cards](https://drawntoevil.s3.ap-southeast-2.amazonaws.com/printable_dm.pdf)
-- [Game Master cards - Backs](https://drawntoevil.s3.ap-southeast-2.amazonaws.com/printable__dm_backs.pdf)
+- [Game Master cards - Backs](https://drawntoevil.s3.ap-southeast-2.amazonaws.com/printable_backs_dm.pdf)
