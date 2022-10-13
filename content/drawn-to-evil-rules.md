@@ -91,9 +91,9 @@ No matter the horror that lurch forth from the bowels of the universe, you will 
 
 Aspects represent the strengths and weaknesses of your investigator. Cards that you add to your <small>INVESTIGATOR</small> deck can have a positive or negative effect on some or all of your aspects.
 
-![Reason](/img/drawn-to-evil/reason.png) **Reason** - Your ability to solve puzzles, detect a logical pattern or understand a complex idea.\
+![Reason](/img/drawn-to-evil/reason.png) **Reason** - Your ability to solve puzzles, detect a logical pattern, or understand a complex idea.\
 ![Weird](/img/drawn-to-evil/weird.png) **Weird** - Your ability to be in tune with the supernatural or insane.\
-![Passion](/img/drawn-to-evil/passion.png) **Passion** - Your ability to empathise, manipulate and convince others.\
+![Passion](/img/drawn-to-evil/passion.png) **Passion** - Your ability to empathise, manipulate, and convince others.\
 ![Soul](/img/drawn-to-evil/soul.png) **Soul** - Your ability to stay calm under pressure and resist the influence.\
 ![Might](/img/drawn-to-evil/might.png) **Might** - Your ability to exert control over the physical world.
 
@@ -123,7 +123,7 @@ Construct a standard <small>INVESTIGATOR</small> deck containing 10 ![Base](/img
 #### Step 2 - Customisation:
 Then each player performs the following steps to customise their <small>INVESTIGATOR</small>:
 
-- Draw 2 x ![Background](/img/drawn-to-evil/background.png) Background, 2 x ![Trait](/img/drawn-to-evil/trait.png) Trait and 2 x ![Role](/img/drawn-to-evil/role.png) Role cards. Keep 1 of each.
+- Draw 2 x ![Background](/img/drawn-to-evil/background.png) Background, 2 x ![Trait](/img/drawn-to-evil/trait.png) Trait, and 2 x ![Role](/img/drawn-to-evil/role.png) Role cards. Keep 1 of each.
 - Draw 4 x ![Ability](/img/drawn-to-evil/ability.png) Ability cards. Keep 2.
 
 > Think about the combination of traits and abilities that you think would fight Evil best.
@@ -210,7 +210,7 @@ When your check totals negative 1 (-1) or less your move has failed.
 > This rule works best if you find players spend too long deciding on upgrades as they will likely already have decided on their favourite from the pool when the time comes.
 
 #### Remove:
-Some cards will instruct you to 'Remove' a card from your deck, discard or tableau. Removing a card permanently removes it from play, returning it to the box.
+Some cards will instruct you to 'Remove' a card from your deck, discard, or tableau. Removing a card permanently removes it from play, returning it to the box.
 
 # Game Master
 
