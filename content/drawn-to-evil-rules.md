@@ -152,7 +152,7 @@ Then each player performs the following steps to customise their <small>INVESTIG
 
 #### Step 7 - Construct UPGRADE pile:
 
-- Once all players are done shuffle the ![Item](/img/drawn-to-evil/item.png) Item and ![Ability](/img/drawn-to-evil/ability.png) Ability cards together to form the <small>UPGRADE</small> pile. Place the <small>UPGRADE</small> pile within reach of all players.
+- Once all players are done shuffle the ![Item](/img/drawn-to-evil/item.png) Item and ![Ability](/img/drawn-to-evil/ability.png) Ability cards together to form the <small>UPGRADE</small> pile. Draw 4 cards from this pile and place them face up on the table within reach of all players.
 
 ## How to play
 
@@ -200,14 +200,8 @@ When you are checking, you might:
 When your check totals negative 1 (-1) or less your move has failed.
 
 - Your <small>INVESTIGATOR</small> encounters harm. The <small>GAME MASTER</small> decides between ![Shock](/img/drawn-to-evil/shock.png) Shock or ![Injury](/img/drawn-to-evil/injury.png) Injury. Draw the appropriate card and add it to your discard. 
-- You learn from your mistakes. You may draw 2 cards from the <small>UPGRADE</small> pile. Keep 1 and add it into your discard, return the other to the bottom of the pile.
+- You learn from your mistakes. Select 1 of the 4 face up UPGRADE cards and add it to your discard. Draw a new card from the UPGRADE pile and replace the selected card to ensure there are always 4 face up cards to choose from.
 - Remember to complete any ![Add to deck](/img/drawn-to-evil/add.png) <small>ADDED</small> instructions on the card kept.
-
-> Alternative Upgrades:
->
-> When constructing the <small>UPGRADE</small> pile, turn 4 cards face-up in the center of the table so that all players can read them. When an <small>INVESTIGATOR</small> fails, instead of drawing from the pile, they choose 1 of the 4 that are face-up, then replace the card with another from the <small>UPGRADE</small> pile to ensure there are always 4 available.
->
-> This rule works best if you find players spend too long deciding on upgrades as they will likely already have decided on their favourite from the pool when the time comes.
 
 #### Remove:
 Some cards will instruct you to 'Remove' a card from your deck, discard, or tableau. Removing a card permanently removes it from play, returning it to the box.
