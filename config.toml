@@ -23,7 +23,7 @@ disqusShortname = ""
 
   # Link custom assets relative to /static
   custom_css = []
-  custom_js  = []
+  custom_js  = ['https://www.google.com/recaptcha/api.js', 'form-submit.js']
   favicon    = "favicon.ico"
 
   # Just a custom image variable, please define it in .md files for content.
@@ -155,18 +155,9 @@ disqusShortname = ""
     buttonSend = "Send message"
     buttonClear = "Clear"
 
-    # Since this template is static, the contact form uses www.formspree.io as a
-    # proxy. The form makes a POST request to their servers to send the actual
-    # email. Visitors can send up to a 1000 emails each month for free.
-    #
-    # What you need to do for the setup?
-    #
-    # - set your email address under 'email' below and uncomment
-    # - upload the generated site to your server
-    # - send a dummy email yourself to confirm your account
-    # - click the confirm link in the email from www.formspree.io
-    # - you're done. Happy mailing!
-    formEmail = "xlebqzyq"
+    #Overrode to getform because of spam
+    formEmail = "842a8335-3e4b-4691-8dd8-71da37b8ade5"
+    recaptcha = "6LfDXNIiAAAAAC7vRMYuUfRPmpT09ujySDrDXOV9"
 
     # Contact Section
     # You can add multiple emails, phone numbers, or addresses
