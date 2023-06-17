@@ -3,7 +3,20 @@ Website for group Definitely Not Reptilian Games
 
 Created with [Hugo](https://gohugo.io/)
 
-- On windows run `choco install hugo-extended -confirm`
-- Get packages `npm i`
+- On windows you can install hugo `choco install hugo-extended -confirm` or use the vscode devcontainer
+
+## Local Development
+
 - Get submodules `git submodule update --init`
-- Server `npm run serve`
+- Server `hugo server`
+
+## Deployment
+
+Deployment is automate with github actions.
+
+### Manual Deployment
+
+- Run `npm i`
+- Run `npm run deploy` to build site and deploy to firebase
+
+
