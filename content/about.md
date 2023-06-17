@@ -1,6 +1,6 @@
 ---
 title: "About Us"
-description: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus."
+description: "Welcome to Definitely Not Reptilian Games, your premier destination for immersive role-playing games and captivating storytelling experiences."
 slug: "about"
 image: aboutus.jpg
 keywords: ""
@@ -11,4 +11,10 @@ date: 2017-10-31T22:42:51-05:00
 draft: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
+Welcome to Definitely Not Reptilian Games, your premier destination for immersive role-playing games and captivating storytelling experiences. We are a small, dedicated team of board and video game developers based in the heart of Melbourne, Australia. Our passion? Crafting card and board games that get inside your head, and maybe even shed a new light on your perception of the world.
+
+Our story began in the upside-down Australia, where we found ourselves drawn to the intricate world of game development. We were a group of friends, united by our love for role-playing games, storytelling, and a shared suspicion that we might be slightly different from the rest. We weren't your average humans, but we were definitely not reptilian. Or so we'd have you believe...
+
+Our tagline, "WE MAKE CARD AND BOARD GAMES THAT GET INSIDE YOUR HEAD," is more than just a catchy phrase. It's a testament to our commitment to create games that challenge your thinking, stir your imagination, and perhaps even awaken dormant parts of your brain. We believe in the transformative power of games, their ability to transport you to different realms, and their potential to make you question the reality you've always known.
+
+So, whether you're a seasoned gamer or a curious newcomer, we invite you to join us on this exciting journey. Explore our games, delve into our stories, and let us transport you to worlds you've never imagined. But remember, keep an open mind. After all, the world is full of surprises, and not everything is as it seems.
