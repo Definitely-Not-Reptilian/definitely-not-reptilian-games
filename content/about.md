@@ -2,7 +2,7 @@
 title: "About Us"
 description: "Welcome to Definitely Not Reptilian Games, your premier destination for immersive role-playing games and captivating storytelling experiences."
 slug: "about"
-image: aboutus.jpg
+image: aboutus.png
 keywords: ""
 categories: 
     - ""

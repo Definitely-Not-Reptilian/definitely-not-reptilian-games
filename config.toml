@@ -93,19 +93,19 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Mystery Packs"
       subtitle = "Murder mystery style evenings with friends"
-      image = "mystery.jpg"
+      image = "on_stage.png"
       url = "mystery"
 
     [[params.tiles.showcase]]
       title = "Drawn To Evil"
       subtitle = "A deck building RPG"
-      image = "dte.jpg"
+      image = "board.png"
       url = "drawn-to-evil"
 
     [[params.tiles.showcase]]
       title = "Outer Shell"
-      subtitle = "Command line space exploration RPG"
-      image = "outershell.jpg"
+      subtitle = "A retro ASCII art space shooter"
+      image = "space.png"
       url = "outer-shell"
 
     # [[params.tiles.showcase]]

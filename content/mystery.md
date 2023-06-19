@@ -2,7 +2,6 @@
 title: "Mystery Nights"
 description: "Murder mystery style evenings to share with your friends."
 slug: "mystery"
-image: mystery.jpg
 keywords: ""
 categories: 
     - ""
