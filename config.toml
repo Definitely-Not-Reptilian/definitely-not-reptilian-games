@@ -57,6 +57,10 @@ disqusShortname = ""
     [[params.navigation.links]]
       name = "Outer Shell"
       url = "outer-shell"
+    
+    [[params.navigation.links]]
+      name = "Electric Sheep"
+      url = "electric-sheep"
 
     [[params.navigation.links]]
       name = "About Us"
@@ -111,6 +115,12 @@ disqusShortname = ""
       subtitle = "A retro ASCII art space shooter"
       image = "space.png"
       url = "outer-shell"
+
+    [[params.tiles.showcase]]
+      title = "Electric Sheep"
+      subtitle = "Blade Runner inspired interview with a potentially dangerous android"
+      image = "interview.png"
+      url = "electric-sheep"
 
     # [[params.tiles.showcase]]
     #   title = "Magna"
