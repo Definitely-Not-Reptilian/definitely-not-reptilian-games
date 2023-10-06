@@ -47,20 +47,20 @@ disqusShortname = ""
       url = "#"
 
     [[params.navigation.links]]
-      name = "Mystery Packs"
-      url = "mystery"
-
-    [[params.navigation.links]]
       name = "Drawn To Evil"
       url = "drawn-to-evil"
-
-    [[params.navigation.links]]
-      name = "Outer Shell"
-      url = "outer-shell"
     
     [[params.navigation.links]]
       name = "Electric Sheep"
       url = "electric-sheep"
+
+    [[params.navigation.links]]
+      name = "Mystery Packs"
+      url = "mystery"
+
+    [[params.navigation.links]]
+      name = "Outer Shell"
+      url = "outer-shell"
 
     [[params.navigation.links]]
       name = "About Us"
@@ -99,28 +99,28 @@ disqusShortname = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "Mystery Packs"
-      subtitle = "Murder mystery style evenings with friends"
-      image = "on_stage.png"
-      url = "mystery"
-
-    [[params.tiles.showcase]]
       title = "Drawn To Evil"
-      subtitle = "A deck building RPG"
+      subtitle = "The deck building Lovecraftian RPG"
       image = "board.png"
       url = "drawn-to-evil"
-
-    [[params.tiles.showcase]]
-      title = "Outer Shell"
-      subtitle = "A retro ASCII art space shooter"
-      image = "space.png"
-      url = "outer-shell"
 
     [[params.tiles.showcase]]
       title = "Electric Sheep"
       subtitle = "Blade Runner inspired interview with a potentially dangerous android"
       image = "interview.png"
       url = "electric-sheep"
+
+    [[params.tiles.showcase]]
+      title = "Mystery Packs"
+      subtitle = "Murder mystery style evenings with friends"
+      image = "on_stage.png"
+      url = "mystery"
+
+    [[params.tiles.showcase]]
+      title = "Outer Shell"
+      subtitle = "A retro ASCII art space shooter"
+      image = "space.png"
+      url = "outer-shell"
 
     # [[params.tiles.showcase]]
     #   title = "Magna"
