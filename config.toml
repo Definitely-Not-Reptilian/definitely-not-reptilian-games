@@ -210,6 +210,11 @@ disqusShortname = ""
     #   icon = "fa-instagram"
     #   url= "https://www.instagram.com"
     #   label = "Instagram"
+
+    [[params.footer.social]]
+      icon = "fa-discord"
+      url= "https://discord.gg/54Grf7vwjE"
+      label = "Discord"
     
     [[params.footer.social]]
       icon = "fa-github"
