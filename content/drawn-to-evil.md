@@ -1,4 +1,5 @@
 ---
+title: Drawn To Evil
 description: 'Take on the role of an investigator in a horror filled one session story whilst one of your friends takes on the role of the Game Master, who controls a destructive Evil monster, their minions and innocent bystanders.'
 slug: 'drawn-to-evil'
 image: drawn-to-evil/banner.png
@@ -8,6 +9,7 @@ categories:
   - ''
 date: 2017-10-31T22:42:51-05:00
 draft: false
+featured_image: /img/drawn-to-evil/showcase.png
 ---
 > ## We Are Coming to PAX Melbourne!
 > ### Drawn to Evil is being demonstrated at [PAX Collaboratory](https://aus.paxsite.com/en-us/features/collaboratory.html) 
