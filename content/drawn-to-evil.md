@@ -9,7 +9,7 @@ categories:
   - ''
 date: 2017-10-31T22:42:51-05:00
 draft: false
-featured_image: /img/drawn-to-evil/showcase.png
+featured_image: img/drawn-to-evil/showcase.png
 ---
 > ## We Are Coming to PAX Melbourne!
 > ### Drawn to Evil is being demonstrated at [PAX Collaboratory](https://aus.paxsite.com/en-us/features/collaboratory.html) 
