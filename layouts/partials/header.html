@@ -2,13 +2,13 @@
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-	{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+    <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{end}}">
 	{{ with .Site.Params.name }}<meta name="author" content="{{ . }}">{{ end }}
 
     <meta name="twitter:card" content="{{ if .Params.featured_image }}summary_large_image{{else}}summary{{end}}">
     <meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}">
     <meta name="twitter:description" content="{{ .Description }}">
-    <meta name="twitter:image" content="https://definitelynotreptilian.com/{{ if .Params.featured_image }}{{ .Params.featured_image }}{{else}}/img/aboutus.png{{end}}">
+    <meta name="twitter:image" content="https://definitelynotreptilian.com/{{ if .Params.featured_image }}{{ .Params.featured_image }}{{ else }}/img/aboutus.png{{ end }}">
     
     <meta property="og:locale" content="en_GB">
     <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
@@ -16,8 +16,8 @@
     <meta property="og:description" content="{{ .Description }}">
     <meta property="og:url" content="{{ .Permalink }}">
     <meta property="og:site_name" content="{{ .Site.Title }}">
-    <meta property="og:image" content="https://definitelynotreptilian.com/{{ if .Params.featured_image }}{{ .Params.featured_image }}{{else}}/img/aboutus.png{{end}}">
-    <meta property="og:image:secure_url" content="https://definitelynotreptilian.com/{{ if .Params.featured_image }}{{ .Params.featured_image }}{{else}}/img/aboutus.png{{end}}">
+    <meta property="og:image" content="https://definitelynotreptilian.com/{{ if .Params.featured_image }}{{ .Params.featured_image }}{{ else }}/img/aboutus.png{{ end }}">
+    <meta property="og:image:secure_url" content="https://definitelynotreptilian.com/{{ if .Params.featured_image }}{{ .Params.featured_image }}{{ else }}/img/aboutus.png{{ end }}">
 
 	{{ hugo.Generator }}
 	<title>{{ .Title }}{{ if not .IsHome }} &middot; {{ .Site.Title }}{{ end }}</title>
