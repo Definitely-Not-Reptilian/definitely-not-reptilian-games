@@ -58,16 +58,15 @@ As a <small>GAME MASTER</small> it is your job to make the world, story and non 
 
 Divide the cards into piles by type then shuffle each pile.
 
-![Base](/img/drawn-to-evil/base.png) 50 x Base cards\
+![Base](/img/drawn-to-evil/base.png) 40 x Base cards\
 ![Role](/img/drawn-to-evil/role.png) 10 x Role cards\
 ![Background](/img/drawn-to-evil/background.png) 12 x Background cards\
 ![Trait](/img/drawn-to-evil/trait.png) 12 x Trait cards\
-![Ability](/img/drawn-to-evil/ability.png) 31 x Ability cards\
-![Item](/img/drawn-to-evil/item.png) 13 x Item cards\
+![Ability](/img/drawn-to-evil/ability.png) 43 x Ability cards\
 ![Injury](/img/drawn-to-evil/injury.png) 12 x Injury cards\
 ![Shock](/img/drawn-to-evil/shock.png) 12 x Shock cards\
 ![Bless](/img/drawn-to-evil/bless.png) 4 x Bless cards\
-![Evil](/img/drawn-to-evil/evil-icon.png) 12 x Evil cards\
+![Evil](/img/drawn-to-evil/evil-icon.png) 10 x Evil cards\
 ![Minion](/img/drawn-to-evil/minion-icon.png) 10 x Minion cards\
 ![Bystander](/img/drawn-to-evil/bystander-icon.png) 10 x Bystander cards\
 ![Location](/img/drawn-to-evil/location-icon.png) 10 x Location cards\
@@ -116,7 +115,7 @@ Construct a standard <small>INVESTIGATOR</small> deck containing 10 ![Base](/img
 - 2 x Rest
 - 2 x Resolve
 
-> For a quicker play session or when exceeding 5 <small>INVESTIGATORS</small>, instead start with one of each card instead.
+> For a quicker play session or when exceeding 4 <small>INVESTIGATORS</small>, instead start with one of each card instead.
 >
 > Follow the remaining steps as usual.
 
@@ -140,7 +139,7 @@ Then each player performs the following steps to customise their <small>INVESTIG
 
 #### Step 4 - Construct tableau:
 
-- Place your ![Ability](/img/drawn-to-evil/ability.png) Ability and ![Role](/img/drawn-to-evil/role.png) Role cards face up in front of you. This is your tableau and shows cards ready to be activated.
+- Place your ![Ability](/img/drawn-to-evil/ability.png) Ability cards _without_ aspects and your ![Role](/img/drawn-to-evil/role.png) Role cards face up in front of you. This is your tableau and shows cards ready to be activated.
 
 #### Step 5 - Shuffle deck:
 - Your ![Base](/img/drawn-to-evil/base.png) Base, ![Background](/img/drawn-to-evil/background.png) Background, and ![Trait](/img/drawn-to-evil/trait.png) Trait cards are shuffled together to form your deck. Place it facedown in front of you.
@@ -152,7 +151,7 @@ Then each player performs the following steps to customise their <small>INVESTIG
 
 #### Step 7 - Construct UPGRADE pile:
 
-- Once all players are done shuffle the ![Item](/img/drawn-to-evil/item.png) Item and ![Ability](/img/drawn-to-evil/ability.png) Ability cards together to form the <small>UPGRADE</small> pile. Draw 4 cards from this pile and place them face up on the table within reach of all players.
+- Shuffle the reamining ![Ability](/img/drawn-to-evil/ability.png) Ability cards together to form the <small>UPGRADE</small> pile. Draw 4 cards from this pile and place them face up on the table.
 
 ## How to play
 
@@ -184,14 +183,14 @@ Instead of using the Basic Moves, you can also ![Use ability](/img/drawn-to-evil
 
 Basic Moves and some <small>ACTIVATE</small> instructions may ask you to make a check for a specific aspect. To do this:
 
-- Draw cards from the top of your deck until you have drawn 2 cards with the  Stop symbol.
+- Draw cards from the top of your deck until you have drawn 2 cards with the ![Stop](/img/drawn-to-evil/stop.png) Stop symbol.
 - Add up the total for the appropriate aspect (colour) on all cards drawn. This forms your score.
 - Compare your score to the ACTIVATED card to find out it's effect.
 - If you have a score totalling negative 1 (-1) or less: you fail. Refer to the rules about [Failure](#failure).
-- Finally place all drawn cards (excluding drawn ![Ability](/img/drawn-to-evil/ability.png) Ability or ![Role](/img/drawn-to-evil/role.png) Role cards) into your discard.
+- Finally place all drawn cards into your discard.
 
 When you are checking, you might: 
-- Draw an ![Ability](/img/drawn-to-evil/ability.png) Ability or ![Role](/img/drawn-to-evil/role.png) Role card. Immediately place it in front of you in your tableau.
+- Draw an ![Ability](/img/drawn-to-evil/ability.png) Ability card with no Aspects or a ![Role](/img/drawn-to-evil/role.png) Role card. Immediately place it in front of you in your tableau. It is not discarded.
 - Draw a card with a ![Drawn](/img/drawn-to-evil/play.png) <small>DRAWN</small> instruction. You should follow the instructions immediately.
 - Draw 3 or more cards marked with a ![Skull](/img/drawn-to-evil/skull.png) skull. Something bad happens. Tell the <small>GAME MASTER</small> you have been <small>MARKED FOR DEATH</small>.
 - Run out of cards in your deck. Shuffle all cards in your discard pile and they becomes your new deck. Continue drawing to complete the check as per normal.
