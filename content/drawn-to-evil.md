@@ -12,8 +12,6 @@ draft: false
 featured_image: img/drawn-to-evil/showcase.png
 ---
 
-*Drawn to Evil is available to buy now in Australia, use our contact form for shipping outside of Australia.*
-
 {{< drawntoevilbuybutton >}}
 
 -----
