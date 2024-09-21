@@ -14,9 +14,11 @@ featured_image: img/drawn-to-evil/showcase.png
 
 *Drawn to Evil is available to buy now in Australia, use our contact form for shipping outside of Australia.*
 
-[![BUY NOW](/img/drawn-to-evil/buy-button.png)](https://buy.stripe.com/5kAg0x3DddLC0De000)
+{{< drawntoevilbuybutton >}}
 
 -----
+
+
 
 Up to four friends take on the role of supernatural horror INVESTIGATORS. One person takes on the role of the GAME MASTER who controls a destructive Evil monster, its minions, and innocent bystanders.
 
