@@ -12,6 +12,12 @@ draft: false
 featured_image: img/drawn-to-evil/showcase.png
 ---
 
+*Drawn to Evil is available to buy now in Australia, use our contact form for shipping outside of Australia.*
+
+[![BUY NOW](/img/drawn-to-evil/buy-button.png)](https://buy.stripe.com/5kAg0x3DddLC0De000)
+
+-----
+
 Up to four friends take on the role of supernatural horror INVESTIGATORS. One person takes on the role of the GAME MASTER who controls a destructive Evil monster, its minions, and innocent bystanders.
 
 Similar to role-playing games like Apocalypse World, DRAWN TO EVIL unfolds a gripping narrative during gameplay, crafted collaboratively at the table. Players utilize deck-building mechanics to strengthen their INVESTIGATORS, while the GAME MASTER employs a unique set of cards to sow chaos and insanity.
@@ -21,6 +27,7 @@ Setup is engaging and quick, with games ready in minutes, ensuring every session
 You can check out the [rules](/drawn-to-evil-rules) right now to learn how to play. Sign up to our mailing list to get access to the game as soon as possible!
 
 Print and Play & TableTop Simulator versions are available on request using the contact form on our home page.
+
 
 ![Player Cards](/img/drawn-to-evil/showcase.png)
 
