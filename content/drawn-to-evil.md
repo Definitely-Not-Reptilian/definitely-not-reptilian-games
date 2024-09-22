@@ -12,22 +12,22 @@ draft: false
 featured_image: img/drawn-to-evil/printed.png
 ---
 
+![Drawn To Evil Printed](/img/drawn-to-evil/printed.png)
 {{< drawntoevilbuybutton >}}
 
------
+---
 
-
+Drawn To Evil is a Tabletop RPG where you take on the role of an INVESTIGATOR, trying to track down and deal with an unknown Lovecraftian Evil. The game has no dice, and no character sheets. Instead players craft their characters using a deck of cards, and change the deck over time as their character changes and grows.
 
 Up to four friends take on the role of supernatural horror INVESTIGATORS. One person takes on the role of the GAME MASTER who controls a destructive Evil monster, its minions, and innocent bystanders.
 
 Similar to role-playing games like Apocalypse World, DRAWN TO EVIL unfolds a gripping narrative during gameplay, crafted collaboratively at the table. Players utilize deck-building mechanics to strengthen their INVESTIGATORS, while the GAME MASTER employs a unique set of cards to sow chaos and insanity.
 
-Setup is engaging and quick, with games ready in minutes, ensuring every session delivers nail-biting tension.
+Setup is engaging and quick, with games ready in minutes, ensuring every session delivers nail-biting tension. The perfect one-shot system for players new to RPGs and great fast paced punchy action for the experienced.
 
 You can check out the [rules](/drawn-to-evil-rules) right now to learn how to play. Sign up to our mailing list to get access to the game as soon as possible!
 
 Print and Play & TableTop Simulator versions are available on request using the contact form on our home page.
-
 
 ![Player Cards](/img/drawn-to-evil/showcase.png)
 

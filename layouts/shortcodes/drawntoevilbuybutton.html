@@ -1,21 +1,75 @@
-<script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
 <center>
-<img src="/img/drawn-to-evil/printed.png" style="width: 1000px; max-width: 100%; border-radius: 10px;">
-<br>
+  <label for="shipto">Select Shipping Destination</label>
 
-<br>
-<stripe-buy-button
-  buy-button-id="buy_btn_1Pc1NIDMQZH9roAEcYpiU3af"
-  publishable-key="pk_live_51PbwI8DMQZH9roAEz7T8oWDML77nwOx9kicgeOm2iq7ai4oUKhqdM7YrXMmMYE6rf383Y6FQqvmYsChCChRu0ktP001h8Q3miv"
->
-</stripe-buy-button><br><br>
-<small><i>*Orders will begin shipping from <b>November 2024.</b></i>
-  <br><b>Box contains everything you need to play:</b> 144 Investigator cards, 42 Game Master cards, 12 Basic Move cards, How To Play rulebook & Game Master Guide
-  <br>
-  <i>*Drawn to Evil is available to buy now in Australia, use our contact form for shipping outside of Australia.
-</i>
-</small>
-<br>
+  <select
+    name="shipto"
+    id="shipto"
+    style="
+      max-width: 300px;
+      -moz-appearance: auto;
+      -webkit-appearance: auto;
+      -ms-appearance: auto;
+      appearance: auto;
+      margin-bottom: 1rem;
+    "
+  >
+    <option value="https://buy.stripe.com/5kAg0x3DddLC0De000" style="color: black">Australia</option>
+    <option value="https://buy.stripe.com/6oE3dL8XxcHyadOfZ0" style="color: black">New Zealand</option>
+    <option value="https://buy.stripe.com/7sI7u17Tt6ja4Tu7sw" style="color: black">Asia Pacific</option>
+    <option value="https://buy.stripe.com/8wM7u1ehRcHyeu48wB" style="color: black">UK & Europe</option>
+    <option value="https://buy.stripe.com/7sI8y52z9cHy3PqaEH" style="color: black">US & Canada</option>
+  </select>
+  <a
+    id="buy-button"
+    style="
+      display: block;
+      background-color: rgb(192, 97, 203);
+      color: rgb(255, 255, 255);
+      width: 288px;
+      height: 44px;
+      border: 1px solid hsla(0, 0%, 10%, 0.1);
+      border-radius: 4px;
+      font-weight: 600;
+      font-size: 1rem;
+      line-height: 44px;
+      text-align: center;
+      align-items: center;
+    "
+    href="https://buy.stripe.com/5kAg0x3DddLC0De000"
+  >
+    Buy Drawn To Evil
+  </a>
+  <br /><br />
+  <small
+    ><i>*Orders will begin shipping from <b>November 2024.</b></i> <br /><b
+      >Box contains everything you need to play:</b
+    >
+    144 Investigator cards, 42 Game Master cards, 12 Basic Move cards, How To Play rulebook & Game Master Guide
+    <br />
+    <i>*Drawn to Evil is available to buy now in Australia, use our contact form for shipping outside of Australia. </i>
+  </small>
+  <br />
 </center>
+<script>
+  function deferForJQuery(method) {
+    if (window.jQuery) {
+      method()
+    } else {
+      setTimeout(function () {
+        deferForJQuery(method)
+      }, 50)
+    }
+  }
+  deferForJQuery(function () {
+    $(function () {
+      var buySelect = $('#shipto')
+      var buyButton = $('#buy-button')
+      if (buySelect.length && buyButton.length) {
+        buySelect.val($('#shipto option').first().val()).change()
+        buySelect.on('change', function () {
+          buyButton.attr('href', this.value)
+        })
+      }
+    })
+  })
+</script>
