@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/JamesHDuffield/definitely-not-reptilian-games#readme",
   "devDependencies": {
-    "firebase-tools": "^12.4.0"
+    "firebase-tools": "^13.6.0"
   }
 }
