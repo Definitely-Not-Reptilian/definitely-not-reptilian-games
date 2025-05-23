@@ -1,5 +1,6 @@
 ---
 title: Drawn To Evil
+hideTitle: true
 description: 'Take on the role of an investigator in a horror filled one session story whilst one of your friends takes on the role of the Game Master, who controls a destructive Evil monster, their minions and innocent bystanders.'
 slug: 'drawn-to-evil'
 image: drawn-to-evil/banner.png
