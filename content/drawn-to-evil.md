@@ -12,11 +12,18 @@ draft: false
 featured_image: img/drawn-to-evil/printed.png
 ---
 
+{{< attractivelink label="Buy Now" href="#buy-dte-now" >}}
+{{< attractivelink label="Read the Rules" href="/drawn-to-evil-rules" >}}
+{{< attractivelink label="Starter Module: The Ghan" href="https://drawntoevil.s3.ap-southeast-2.amazonaws.com/The+Ghan+v5.pdf" >}}
+{{< attractivelink label="GM Template" href="https://drawntoevil.s3.ap-southeast-2.amazonaws.com/GameMasterNotes.pdf" >}}
+
+
+---
+
 ![Drawn To Evil Printed](/img/drawn-to-evil/printed.png)
 {{< drawntoevilbuybutton >}}
 
 ---
-
 Drawn To Evil is a Tabletop RPG where you take on the role of an INVESTIGATOR, trying to track down and deal with an unknown Lovecraftian Evil. The game has no dice, and no character sheets. Instead players craft their characters using a deck of cards, and change the deck over time as their character changes and grows.
 
 Up to four friends take on the role of supernatural horror INVESTIGATORS. One person takes on the role of the GAME MASTER who controls a destructive Evil monster, its minions, and innocent bystanders.
@@ -36,7 +43,5 @@ Players make a deck of cards that represent their character including personalit
 ![GM Cards](/img/drawn-to-evil/showcase_dm.png)
 
 The Game Master also has a set of cards that represent important characters and locations in the world. Importantly, these archetypes dictate the type of Evil that the players will investigate as well as any help or hinderance they find along the way.
-
-You can use print this template to assist with running your session: [Game Master session template](https://drawntoevil.s3.ap-southeast-2.amazonaws.com/GameMasterNotes.pdf)
 
 {{< emailsubscribeform >}}
