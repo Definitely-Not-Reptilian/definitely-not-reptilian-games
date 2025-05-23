@@ -32,10 +32,6 @@ Similar to role-playing games like Apocalypse World, DRAWN TO EVIL unfolds a gri
 
 Setup is engaging and quick, with games ready in minutes, ensuring every session delivers nail-biting tension. The perfect one-shot system for players new to RPGs and great fast paced punchy action for the experienced.
 
-You can check out the [rules](/drawn-to-evil-rules) right now to learn how to play. Sign up to our mailing list to get access to the game as soon as possible!
-
-Print and Play & TableTop Simulator versions are available on request using the contact form on our home page.
-
 ![Player Cards](/img/drawn-to-evil/showcase.png)
 
 Players make a deck of cards that represent their character including personality traits, equipment, background and abilities. They then draw from their deck to determine the outcome of their actions.
@@ -43,5 +39,7 @@ Players make a deck of cards that represent their character including personalit
 ![GM Cards](/img/drawn-to-evil/showcase_dm.png)
 
 The Game Master also has a set of cards that represent important characters and locations in the world. Importantly, these archetypes dictate the type of Evil that the players will investigate as well as any help or hinderance they find along the way.
+
+You can check out the [rules](/drawn-to-evil-rules) right now to learn how to play or sign up to our mailing list to get notifications about new modules and events!
 
 {{< emailsubscribeform >}}
